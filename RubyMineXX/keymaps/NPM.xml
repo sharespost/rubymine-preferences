@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<keymap version="1" name="NPM" parent="Default for Mac OS X">
+  <action id="CollapseBlock" />
+  <action id="CollapseSelection" />
+  <action id="EditorCutLineEnd">
+    <keyboard-shortcut first-keystroke="control K" />
+  </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="control W" />
+    <keyboard-shortcut first-keystroke="meta PERIOD" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift control W" />
+    <keyboard-shortcut first-keystroke="shift meta PERIOD" />
+  </action>
+  <action id="InsertRubyInjection" />
+  <action id="SwitchApply">
+    <keyboard-shortcut first-keystroke="control alt ENTER" />
+  </action>
+  <action id="SwitchDown">
+    <keyboard-shortcut first-keystroke="control alt DOWN" />
+  </action>
+  <action id="SwitchLeft">
+    <keyboard-shortcut first-keystroke="control alt LEFT" />
+  </action>
+  <action id="SwitchRight">
+    <keyboard-shortcut first-keystroke="control alt RIGHT" />
+  </action>
+  <action id="SwitchUp">
+    <keyboard-shortcut first-keystroke="control alt UP" />
+  </action>
+</keymap>
+
