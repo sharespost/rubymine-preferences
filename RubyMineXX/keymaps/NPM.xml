@@ -5,14 +5,6 @@
   <action id="EditorCutLineEnd">
     <keyboard-shortcut first-keystroke="control K" />
   </action>
-  <action id="EditorSelectWord">
-    <keyboard-shortcut first-keystroke="control W" />
-    <keyboard-shortcut first-keystroke="meta PERIOD" />
-  </action>
-  <action id="EditorUnSelectWord">
-    <keyboard-shortcut first-keystroke="shift control W" />
-    <keyboard-shortcut first-keystroke="shift meta PERIOD" />
-  </action>
   <action id="InsertRubyInjection" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="control alt ENTER" />
