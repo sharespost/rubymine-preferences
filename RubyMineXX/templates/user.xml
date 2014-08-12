@@ -12,5 +12,10 @@
       <option name="RUBY" value="true" />
     </context>
   </template>
+  <template name="save" value="save_and_open_preview" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="RUBY" value="true" />
+    </context>
+  </template>
 </templateSet>
 
