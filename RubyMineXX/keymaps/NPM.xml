@@ -2,8 +2,17 @@
 <keymap version="1" name="NPM" parent="Mac OS X 10.5+">
   <action id="CollapseBlock" />
   <action id="CollapseSelection" />
+  <action id="EditorCloneCaretAbove">
+    <keyboard-shortcut first-keystroke="control meta alt OPEN_BRACKET" />
+  </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="control meta alt CLOSE_BRACKET" />
+  </action>
   <action id="EditorCutLineEnd">
     <keyboard-shortcut first-keystroke="control K" />
+  </action>
+  <action id="EditorSwapSelectionBoundaries">
+    <keyboard-shortcut first-keystroke="control meta alt BACK_SLASH" />
   </action>
   <action id="InsertRubyInjection" />
   <action id="SwitchApply">
